@@ -32,7 +32,7 @@
 
 </p>
 
-## :rocket: Desafio 11: GoRestaurant Mobile
+## :rocket: Desafio: GoRestaurant Mobile
 
 <p align="center">
 <img alt="Project working" src="https://media.giphy.com/media/ifSsIB2uxFRpM49Iph/giphy.gif" style="border-radius:5px;"/>
@@ -41,11 +41,11 @@
 ✔ [View challenge page](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery)
 
 <p align="center">
-  <img src="uploads/capa.png"/>
+  <img src="uploads/GoRestaurantMobile_cover.png"/>
 </p>
 
 <p align="center">
-  <img width="500" src="uploads/flux.gif"/>
+  <img width="500" src="uploads/GoRestaurantMobile_cover.gif"/>
 </p>
 
 * [Content (en-US)](#secao-en_us)
