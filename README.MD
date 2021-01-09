@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/90sRehem/Desafio-GoRestaurant-Mobile">
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/90sRehem/Desafio-GoRestaurant-Mobile">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/90sRehem/Desafio-GoRestaurant-Mobile">
-  <a href="https://github.com/90sRehem/Desafio-GoRestaurant-Mobile/commits/master">
-    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/90sRehem/Desafio-GoRestaurant-Mobile">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/90sRehem/GoRestaurant-Mobile">
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/90sRehem/GoRestaurant-Mobile">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/90sRehem/GoRestaurant-Mobile">
+  <a href="https://github.com/90sRehem/GoRestaurant-Mobile/commits/master">
+    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/90sRehem/GoRestaurant-Mobile">
   </a>
-   <a href="https://github.com/90sRehem/Desafio-GoRestaurant-Mobile/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/90sRehem/Desafio-GoRestaurant-Mobile">
+   <a href="https://github.com/90sRehem/GoRestaurant-Mobile/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/90sRehem/GoRestaurant-Mobile">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/90sRehem/Desafio-GoRestaurant-Mobile">
+  <img alt="License" src="https://img.shields.io/github/license/90sRehem/GoRestaurant-Mobile">
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@
   <a href="https://github.com/90sRehem" target="_blank">
     <img alt="Made by Jonathan Rehem" src="https://img.shields.io/badge/made%20by-Jonathan_Rehem-informational">
   </a>
-  <a href="https://github.com/90sRehem" target="_blank" >
+  <a href="https://www.linkedin.com/in/jonathan-rehem-7101171a5/" target="_blank" >
     <img alt="Github - Jonathan Rehem" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/90sRehem/" target="_blank" >
+  <a href="https://www.linkedin.com/in/jonathan-rehem-7101171a5/" target="_blank" >
     <img alt="LinkedIn - Jonathan Rehem" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
   </a>
   <a href="mailto:jonathan.de.oliveira@live.com" target="_blank" >
