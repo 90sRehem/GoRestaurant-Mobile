@@ -39,11 +39,11 @@
 </p>
 
 <p align="center">
-<img alt="Project working" src="https://media.giphy.com/media/ifSsIB2uxFRpM49Iph/giphy.gif" style="border-radius:5px;"/>
+  <img width="500" src="uploads/GoRestaurantMobile_flux.gif"/>
 </p>
 
 <p align="center">
-  <img width="500" src="uploads/GoRestaurantMobile_flux.gif"/>
+<img alt="Project working" src="https://media.giphy.com/media/ifSsIB2uxFRpM49Iph/giphy.gif" style="border-radius:5px;"/>
 </p>
 
 * [Content (en-US)](#secao-en_us)
