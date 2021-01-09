@@ -35,21 +35,20 @@
 ## :rocket: Desafio: GoRestaurant Mobile
 
 <p align="center">
-<img alt="Project working" src="https://media.giphy.com/media/ifSsIB2uxFRpM49Iph/giphy.gif" style="border-radius:5px;"/>
-</p>
-
-✔ [View challenge page](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery)
-
-<p align="center">
   <img src="uploads/GoRestaurantMobile_cover.png"/>
 </p>
 
 <p align="center">
-  <img width="500" src="uploads/GoRestaurantMobile_cover.gif"/>
+<img alt="Project working" src="https://media.giphy.com/media/ifSsIB2uxFRpM49Iph/giphy.gif" style="border-radius:5px;"/>
+</p>
+
+<p align="center">
+  <img width="500" src="uploads/GoRestaurantMobile_flux.gif"/>
 </p>
 
 * [Content (en-US)](#secao-en_us)
 * [Conteúdo (pt-BR)](#secao-pt_br)
+✔ [View challenge page](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery)
 
 ## About the project <a id="secao-en_us"></a>
 
