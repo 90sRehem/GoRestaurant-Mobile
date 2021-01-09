@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/90sRehem/" target="_blank" >
     <img alt="LinkedIn - Jonathan Rehem" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
   </a>
-  <a href="mailto:guilhermetexa@outlook.com" target="_blank" >
+  <a href="mailto:jonathan.de.oliveira@live.com" target="_blank" >
     <img alt="Email - Jonathan Rehem" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
   </a>
 
